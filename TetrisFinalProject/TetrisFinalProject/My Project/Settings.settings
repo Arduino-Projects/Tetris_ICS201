@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Leaderboard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Anonymous 0,Anonymous 0,Anonymous 0,Anonymous 0,Anonymous 0,</Value>
+    </Setting>
+    <Setting Name="TopScores" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Anonymous 0,Anonymous 0,Anonymous 0,Anonymous 0,Anonymous 0,</Value>
+    </Setting>
+    <Setting Name="TopScoresSrvl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Araad 17, Derek 14, Araad 13, Araad 12, Derek 5,</Value>
+    </Setting>
+    <Setting Name="Red" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Blue" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkBlue</Value>
+    </Setting>
+    <Setting Name="Green" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="Yellow" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gold</Value>
+    </Setting>
+    <Setting Name="LightBlue" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SkyBlue</Value>
+    </Setting>
+    <Setting Name="Orange" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="Purple" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Purple</Value>
+    </Setting>
+    <Setting Name="Border" Type="System.Windows.Forms.BorderStyle" Scope="User">
+      <Value Profile="(Default)">Fixed3D</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

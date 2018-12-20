@@ -1,0 +1,15 @@
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\bin\Debug\TetrisFinalProject.exe.config
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\bin\Debug\TetrisFinalProject.exe
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\bin\Debug\TetrisFinalProject.pdb
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\bin\Debug\TetrisFinalProject.xml
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.vbprojAssemblyReference.cache
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.Resources.resources
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.vbproj.GenerateResource.cache
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.exe
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.xml
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.pdb
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.frmPause.resources
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.frmMain.resources
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.frmInstructions.resources
+C:\Users\araad\source\repos\TetrisFinalProject\TetrisFinalProject\obj\Debug\TetrisFinalProject.frmStyles.resources
